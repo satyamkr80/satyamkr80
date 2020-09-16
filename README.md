@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://img.shields.io/badge/OS-python-informational?style=flat&logo=os&logoColor=white&color=2bbc8a)
+
+
 <!--
 **satyamkr80/satyamkr80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
