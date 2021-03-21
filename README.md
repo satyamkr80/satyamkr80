@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![](https://img.shields.io/badge/OS-python-informational?style=flat&logo=Bit&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/SIMULATION-Proteus-informational?style=flat&logo=Bit&logoColor=white&color=2bbc8a)
 
 
 <!--
